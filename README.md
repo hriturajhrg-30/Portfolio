@@ -1,5 +1,7 @@
 # Hritu Raj - Portfolio
 
+**Live Application:** [https://portfolio-theta-peach-45.vercel.app/](https://portfolio-theta-peach-45.vercel.app/)
+
 A responsive personal portfolio for Hritu Raj, a Computer Science Engineering student. The site presents five learning projects, supports project search and light/dark themes, and includes an API-backed portfolio assistant.
 
 ## Features
